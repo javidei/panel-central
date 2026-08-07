@@ -1,0 +1,4 @@
+/* Project Hub v0.2.3 · Los elementos con hidden deben permanecer ocultos aunque otra regla defina display. */
+[hidden] {
+  display: none !important;
+}
